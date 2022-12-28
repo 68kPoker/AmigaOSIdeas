@@ -1,0 +1,18 @@
+
+Celem tego zadania jest stworzenie wiernego, szybkiego odpowiednika okienek i gadżetów Workbencha.
+
+Potrzebuję przygotować:
+
+- Funkcję, która zainicjuje nowy Layer podanym prostokątem,
+- Funkcję, która skonwertuje Region w ClipRecty i podepnie pod Layer,
+- Funkcję, która podepnie Layer pod LayerInfo.
+
+Ponadto:
+
+- Funkcję, która zmieni położenie/rozmiar Layera,
+- Funkcję, która zmieni głębię Layera.
+
+Pomonicze:
+
+- Funkcję, która obliczy Region danego Layera wykluczając zasłaniające Layery,
+- Funkcję, która wyliczy DamageList.
